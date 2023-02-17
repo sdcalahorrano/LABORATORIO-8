@@ -1,13 +1,10 @@
 # INFORME-LABORATORIO-8
 
-# INFORME-PROYECTO-SEGUNDO-PARCIAL
-
 INTEGRANTES:
 
 * Aguirre Johan 
 * Calahorrano Sarahi 
 * Lara Melany
-
 
 *1. OBEJTIVOS*
 
@@ -20,7 +17,6 @@ INTEGRANTES:
 - Obtener la frecuencia a partir de los datos obtenidos con el osciloscopio 
 
 - Observar la diferencia de voltaje rms y voltaje pico 
-
 
 *2. MARCO TEÓRICO*
 
